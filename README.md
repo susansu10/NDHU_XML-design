@@ -9,6 +9,6 @@ All the things will be update to my hackmd - XML 應用與設計
 
 ## Branch - teacher_ppt
 Here is to place teacher's ppt, it is useful for me to review the class.
-## Branch - Exercise (
+## Branch - Exercise (deleted)
 Here is the exercise that the teacher gave, also my solutions will will be here.
 ### Exercise 01 - updated!
