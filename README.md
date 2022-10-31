@@ -12,3 +12,5 @@ Here is to place teacher's ppt, it is useful for me to review the class.
 ## Branch - Exercise (deleted)
 Here is the exercise that the teacher gave, also my solutions will will be here.
 ### Exercise 01 - updated!
+### Exercise 02 - updated!
+### Exercise 03 - updated!
