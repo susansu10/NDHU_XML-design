@@ -58,4 +58,7 @@ tags: XML設計與應用
 ## Exercise-03
 ![01](https://user-images.githubusercontent.com/75154678/200303035-26405956-6b54-4cbe-9b0b-9627e87139bd.png)
 
+## Exercise-04
+![02](https://user-images.githubusercontent.com/75154678/200303358-88ce774d-72a9-4ab9-a2bf-78481b74ed9d.png)
+
 
