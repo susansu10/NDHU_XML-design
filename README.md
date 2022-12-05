@@ -2,7 +2,7 @@
 title: XML練習 - 09/20  
 tags: XML設計與應用
 ---
-## Exercise 1
+## Exercise-01
 >![](https://i.imgur.com/aylLTpI.png)
 ### Solution :heavy_check_mark: 
 ```xml=
@@ -52,6 +52,7 @@ tags: XML設計與應用
 	</student_06>
 </classmates_info>
 ```
-
+## Exercise-02
+![09](https://user-images.githubusercontent.com/75154678/200302807-828dc5ef-1928-4537-97b4-dd621d674d21.png)
 
 
