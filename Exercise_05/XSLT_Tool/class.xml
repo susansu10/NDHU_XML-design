@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<class>
+  <student>
+    <id>111338801</id>
+    <name>Bob Dylan</name>
+    <xml_score>90</xml_score>
+    <cs_score>80</cs_score>
+    <security_score>81</security_score>
+    <os_score>71</os_score>
+  </student>
+  <student>
+    <id>111338802</id>
+    <name>Kiki Yeh</name>
+    <xml_score>92</xml_score>
+    <cs_score>82</cs_score>
+    <security_score>72</security_score>
+    <os_score>72</os_score>
+  </student>
+  <student>
+    <id>111338803</id>
+    <name>Gena Wu</name>
+    <xml_score>88</xml_score>
+    <cs_score>83</cs_score>
+    <security_score>63</security_score>
+    <os_score>73</os_score>
+  </student>
+  <student>
+    <id>111338804</id>
+    <name>John Kee</name>
+    <xml_score>75</xml_score>
+    <cs_score>88</cs_score>
+    <security_score>84</security_score>
+    <os_score>74</os_score>
+  </student>
+  <student>
+    <id>111338805</id>
+    <name>Lisa Lu</name>
+    <xml_score>98</xml_score>
+    <cs_score>70</cs_score>
+    <security_score>85</security_score>
+    <os_score>75</os_score>
+  </student>
+</class>
