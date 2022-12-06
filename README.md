@@ -61,6 +61,9 @@ tags: XML設計與應用
 ## Exercise-04
 ![02](https://user-images.githubusercontent.com/75154678/200303358-88ce774d-72a9-4ab9-a2bf-78481b74ed9d.png)
 
+## Exercise-05
+[exercise_in_class_2022-12-06.docx](https://github.com/susansu10/XML-design/files/10169084/exercise_in_class_2022-12-06.docx)
+
 ## Midterm
 [mid-term-homework-2022-11.1.docx](https://github.com/susansu10/XML-design/files/10154010/mid-term-homework-2022-11.1.docx)
 
