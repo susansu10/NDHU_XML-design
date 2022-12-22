@@ -65,8 +65,7 @@ tags: XML設計與應用
 (https://github.com/susansu10/XML-design/files/10169084/exercise_in_class_2022-12-06.docx)
 
 ## Exercise-06
-[exercise_in[XML_XSLT.pdf](https://github.com/susansu10/XML-design/files/10286538/XML_XSLT.pdf)
-_class_2022-12-06.docx]
+[XML_XSLT.pdf](https://github.com/susansu10/XML-design/files/10286678/XML_XSLT.pdf)
 
 ## Exercise-07
 [XML_Security.pdf](https://github.com/susansu10/XML-design/files/10286650/XML_Security.pdf)
