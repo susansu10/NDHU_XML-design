@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="index.xslt"?>
+<index>
+   <page>
+	      <title>My Husband</title>
+	      <name>introduction.xml</name>
+   </page>
+   <page>
+	      <title>About Me</title>
+	      <name>about.xml</name>
+   </page>
+   <page>
+	      <title>Song : We Are the World</title>
+	      <name>niece.xml</name>
+   </page>
+   <page>
+	      <title>Gallery</title>
+	      <name>gallery.xml</name>
+   </page>
+</index>
