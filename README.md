@@ -68,6 +68,12 @@ tags: XML設計與應用
 [exercise_in[XML_XSLT.pdf](https://github.com/susansu10/XML-design/files/10286538/XML_XSLT.pdf)
 _class_2022-12-06.docx]
 
+## Exercise-07
+[XML_Security.pdf](https://github.com/susansu10/XML-design/files/10286650/XML_Security.pdf)
+
 ## Midterm
 [mid-term-homework-2022-11.1.docx](https://github.com/susansu10/XML-design/files/10154010/mid-term-homework-2022-11.1.docx)
+
+## Final
+[xml_final_project.pptx](https://github.com/susansu10/XML-design/files/10286669/xml_final_project.pptx)
 
