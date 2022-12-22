@@ -1,0 +1,10 @@
+<addressbook>
+	<name sex="M">Austin
+		<address>National Dong Hwa University</address>
+		<cellphone>9022888888</cellphone>
+	</name>
+        <name sex="F">Gena
+		<address>National Dong Hwa University</address>
+		<cellphone>0933666666</cellphone>
+	</name>
+</addressbook>

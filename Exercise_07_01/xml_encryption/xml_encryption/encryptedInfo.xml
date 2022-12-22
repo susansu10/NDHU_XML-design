@@ -1,0 +1,16 @@
+<addressbook>
+	<name sex="M">Austin
+		<address><xenc:EncryptedData xmlns:xenc="http://www.w3.org/2001/04/xmlenc#" Type="http://www.w3.org/2001/04/xmlenc#Content"><xenc:EncryptionMethod Algorithm="http://www.w3.org/2001/04/xmlenc#tripledes-cbc"></xenc:EncryptionMethod><ds:KeyInfo xmlns:ds="http://www.w3.org/2000/09/xmldsig#">
+<xenc:EncryptedKey><xenc:EncryptionMethod Algorithm="http://www.w3.org/2001/04/xmlenc#rsa-1_5"></xenc:EncryptionMethod><xenc:CipherData><xenc:CipherValue>PLFc2QbV7Hjf6tLrEhVTX1LW1Md2q1hf7Fp9Kt1B8Ml+/Rn8O1Je/LUrvBkx1L7cMbiwK3BDzbN2
+0qwB7kT8zS8YEe+CpVeK3JwMXcwJaOP0TrHcNGSIx0Y263PDBmzVAxLhrfhf1Wk61xM1pgGMtHZf
+xsEPCOUAjsMkObu5yRo=</xenc:CipherValue></xenc:CipherData></xenc:EncryptedKey></ds:KeyInfo><xenc:CipherData><xenc:CipherValue>PYwGJDnAhaYZmPiktHRuykqEjOF6LnrI/RpaofHSkggBQDQbrFx6bA==</xenc:CipherValue></xenc:CipherData></xenc:EncryptedData></address>
+		<cellphone>9022888888</cellphone>
+	</name>
+        <name sex="F">Gena
+		<address><xenc:EncryptedData xmlns:xenc="http://www.w3.org/2001/04/xmlenc#" Type="http://www.w3.org/2001/04/xmlenc#Content"><xenc:EncryptionMethod Algorithm="http://www.w3.org/2001/04/xmlenc#tripledes-cbc"></xenc:EncryptionMethod><ds:KeyInfo xmlns:ds="http://www.w3.org/2000/09/xmldsig#">
+<xenc:EncryptedKey><xenc:EncryptionMethod Algorithm="http://www.w3.org/2001/04/xmlenc#rsa-1_5"></xenc:EncryptionMethod><xenc:CipherData><xenc:CipherValue>PLFc2QbV7Hjf6tLrEhVTX1LW1Md2q1hf7Fp9Kt1B8Ml+/Rn8O1Je/LUrvBkx1L7cMbiwK3BDzbN2
+0qwB7kT8zS8YEe+CpVeK3JwMXcwJaOP0TrHcNGSIx0Y263PDBmzVAxLhrfhf1Wk61xM1pgGMtHZf
+xsEPCOUAjsMkObu5yRo=</xenc:CipherValue></xenc:CipherData></xenc:EncryptedKey></ds:KeyInfo><xenc:CipherData><xenc:CipherValue>+KDGsHPfC6IVi6owtcjc7FoCf1TRXUr5HDOXQdtHKhYq2949F+M92Q==</xenc:CipherValue></xenc:CipherData></xenc:EncryptedData></address>
+		<cellphone>0933666666</cellphone>
+	</name>
+</addressbook>

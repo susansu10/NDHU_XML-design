@@ -1,0 +1,43 @@
+<addressbook>
+	<name sex="M">Austin
+		<address>National Dong Hwa University</address>
+		<cellphone>9022888888</cellphone>
+	</name>
+        <name sex="F">Gena
+		<address>National Dong Hwa University</address>
+		<cellphone>0933666666</cellphone>
+	</name>
+<Signature xmlns="http://www.w3.org/2000/09/xmldsig#">
+<SignedInfo>
+<CanonicalizationMethod Algorithm="http://www.w3.org/TR/2001/REC-xml-c14n-20010315"></CanonicalizationMethod>
+<SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha1"></SignatureMethod>
+<Reference URI="">
+<Transforms>
+<Transform Algorithm="http://www.w3.org/TR/1999/REC-xpath-19991116">
+<XPath>ancestor-or-self::node() = /addressbook/name/address</XPath>
+</Transform>
+<Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature"></Transform>
+<Transform Algorithm="http://www.w3.org/TR/2001/REC-xml-c14n-20010315#WithComments"></Transform>
+</Transforms>
+<DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"></DigestMethod>
+<DigestValue>JL209BDG+m2U7Cbgmtr6M9eJY0c=</DigestValue>
+</Reference>
+</SignedInfo>
+<SignatureValue>
+WtOGF0wsnO5VlP+Ct36y5/BOfx1jDt9GCz3uKbyki411EPg5VMw5s3iF9m4p53+KcdUAgkzI/pQq
+f8+xLRh/rKU11cuifiWxcWMV7QeP2+g8ue7MrerhXdcL9g8xh78bBi8M7FIyVkpdQYdgAH5A3NbU
+7ddJy99QR2HEak2xr5o=
+</SignatureValue>
+<KeyInfo>
+<KeyValue>
+<RSAKeyValue>
+<Modulus>
+k1zuMpMt/0i8Q987uArSM5jnwA3cRXU+KDBYkNeQsjYG7VPDwiS9G/kODqBJvoGLLlYekn6byttt
+0WKB2DqzadJohw8aF4G0uQcLIhDDpaKfRSaIn+7GI9kap9q6WvOCSIxC3gkEiddadbqeyuryI7Cs
+guKNZzLg0bazng/sQWc=
+</Modulus>
+<Exponent>AQAB</Exponent>
+</RSAKeyValue>
+</KeyValue>
+</KeyInfo>
+</Signature></addressbook>

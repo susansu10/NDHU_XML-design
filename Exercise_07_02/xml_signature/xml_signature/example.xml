@@ -1,0 +1,10 @@
+<cardinfo>
+    <cardno
+        cardlevel="g"
+        cardtype="visa"
+        >1234-5678-8765-4321</cardno>
+    <cardowner>
+        <name>Kai hung chu</name>
+        <id>m9818019</id>
+    </cardowner>
+</cardinfo>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.6">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="D:/eclipse-workspace/xml_encryption/xml_encryption/xml-encryption.jar"/>
+	<classpathentry kind="lib" path="D:/eclipse-workspace/xml_encryption/xml_encryption/lib/commons-logging-api.jar"/>
+	<classpathentry kind="lib" path="D:/eclipse-workspace/xml_encryption/xml_encryption/lib/xalan.jar"/>
+	<classpathentry kind="lib" path="D:/eclipse-workspace/xml_encryption/xml_encryption/lib/xmlsec-1.4.1.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
