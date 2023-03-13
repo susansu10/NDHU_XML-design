@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="homepage.xslt"?>
+<homepage>
+   <page>
+	      <title>Ch01: 我的小學有趣日常</title>
+	      <name>page01.xml</name>
+   </page>
+   <page>
+	      <title>Ch02: 國中不好的回憶 </title>
+	      <name>page02.xml</name>
+   </page>
+   <page>
+	      <title>Ch03: 高中的困擾 </title>
+	      <name>page03.xml</name>
+   </page>
+   <page>
+	      <title>Ch04: 大學的狀態和心願 </title>
+	      <name>page04.xml</name>
+   </page>
+   <page>
+	      <title>Ch05: 對未來的期許 </title>
+	      <name>page05.xml</name>
+   </page>
+</homepage>
